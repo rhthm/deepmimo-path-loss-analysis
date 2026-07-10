@@ -42,6 +42,7 @@ By grouping the receiver points into distance bins, we smooth out local multipat
 ```text
 .
 ├── .gitignore
+├── LICENSE
 ├── README.md
 ├── methodology.md
 ├── requirements.txt
